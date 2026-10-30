@@ -1,0 +1,2 @@
+combo corral;10%;corral;gaseosa
+combo fantasma;10%;corral;hamburguesa inexistente
